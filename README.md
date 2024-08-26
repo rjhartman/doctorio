@@ -67,5 +67,5 @@ To build and tag a new version of the image, run the build target with a valid F
 make build VERSION=1.1.109 
 ```
 
-This would build and tag rhartman99/doctorio:1.1.109.
+This would build and tag `rhartman99/doctorio:1.1.109`.
 
